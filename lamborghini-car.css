@@ -37,7 +37,7 @@
     height: 155px;
     width: 500px;
     background-size: cover;
-    background-image: url(/Moving-Lambo/lambocar_body.png);
+    background-image: url(/Moving-Lambo/lambo/car_body.png);
     animation: shake 1.5s linear infinite;
     
 }
